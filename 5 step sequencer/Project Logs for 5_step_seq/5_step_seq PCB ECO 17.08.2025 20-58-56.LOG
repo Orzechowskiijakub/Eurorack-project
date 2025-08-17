@@ -1,0 +1,381 @@
+Removed Pin From Net: NetName=GND Pin=J?-3
+Removed Pin From Net: NetName=NetP?_3 Pin=P?-3
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Removed Pin From Net: NetName=NetR?_1 Pin=S?-2
+Removed Pin From Net: NetName=NetP?_3 Pin=U?-2
+Removed Pin From Net: NetName=NetR?_1 Pin=U?-5
+Removed Pin From Net: NetName=NetR?_2 Pin=U?-6
+Removed Pin From Net: NetName=NetR?_2 Pin=U?-7
+Added Component: Designator=D?(Diode THT 10 mm)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED THT 5 mm)
+Add component (AddParameter): Name = "Color"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED THT 5 mm)
+Add component (AddParameter): Name = "Color"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Diode THT 10 mm)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Diode THT 10 mm)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Diode THT 10 mm)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED THT 5 mm)
+Add component (AddParameter): Name = "Color"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Diode THT 10 mm)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Diode THT 10 mm)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED THT 5 mm)
+Add component (AddParameter): Name = "Color"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Diode THT 10 mm)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED THT 5 mm)
+Add component (AddParameter): Name = "Color"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=J?(PJ301M)
+Add component (AddParameter): Name = "Label"; Value = "GATE out"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO-92 wide)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO-92 wide)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO-92 wide)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO-92 wide)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO-92 wide)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO-92 wide)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200r"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=S?(2MS1T1B5M2RE)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S?(2MS1T1B5M2RE)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S?(2MS1T1B5M2RE)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S?(2MS1T1B5M2RE)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S?(2MS1T1B5M2RE)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC14)
+Add component (AddParameter): Name = "Package"; Value = "SOIC14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Op Amp"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-3
+Add Pin To Net: Unknown Pin: Pin J?-4
+Add Pin To Net: Unknown Pin: Pin J?-5
+Add Pin To Net: Unknown Pin: Pin J?-6
+Add Pin To Net: Unknown Pin: Pin J?-7
+Add Pin To Net: Unknown Pin: Pin J?-8
+Added Pin To Net: NetName=NetP?_3 Pin=P?-3
+Added Pin To Net: NetName=+12 V Pin=Q?-1
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=+12 V Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=+12 V Pin=R?-2
+Added Pin To Net: NetName=+12 V Pin=R?-2
+Added Pin To Net: NetName=+12 V Pin=R?-2
+Added Pin To Net: NetName=+12 V Pin=R?-2
+Added Pin To Net: NetName=+12 V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetP?_3 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetP?_3 Pin=S?-1
+Added Pin To Net: NetName=NetP?_3 Pin=S?-4
+Added Pin To Net: NetName=NetR?_1 Pin=U?-3
+Added Pin To Net: NetName=NetR?_2 Pin=U?-8
+Added Pin To Net: NetName=NetR?_2 Pin=U?-9
+Added Pin To Net: NetName=NetP?_3 Pin=U?-10
+Added Pin To Net: NetName=CLK buf Pin=D?-2
+Added Pin To Net: NetName=CLK buf Pin=R?-2
+Added Pin To Net: NetName=CLK buf Pin=U?-6
+Added Pin To Net: NetName=CLK buf Pin=U?-7
+Added Pin To Net: NetName=CLK buf Pin=U?-14
+Added Net: Name=CLK buf
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetJ?_3" already exists
+Add Net: Net with name "NetJ?_3" already exists
+Add Net: Net with name "NetP?_2" already exists
+Add Net: Net with name "NetP?_2" already exists
+Add Net: Net with name "NetP?_3" already exists
+Add Net: Net with name "NetP?_3" already exists
+Add Net: Net with name "NetP?_3" already exists
+Add Net: Net with name "NetP?_3" already exists
+Add Net: Net with name "NetP?_3" already exists
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-1
+Added Net: Name=NetQ?_2
+Add Net: Net with name "NetQ?_2" already exists
+Add Net: Net with name "NetQ?_2" already exists
+Add Net: Net with name "NetQ?_2" already exists
+Add Net: Net with name "NetQ?_2" already exists
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-2
+Added Net: Name=NetQ?_3
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Change Class Name : Old Net Name=Sequencer_schem New Net Name=5_step_seq
+Added Member To Class: ClassName=5_step_seq Member=Component C? CAP
+Added Member To Class: ClassName=5_step_seq Member=Component C? CAP
+Added Member To Class: ClassName=5_step_seq Member=Component C? CAP
+Added Member To Class: ClassName=5_step_seq Member=Component C? CAP
+Added Member To Class: ClassName=5_step_seq Member=Component C? CAP
+Added Member To Class: ClassName=5_step_seq Member=Component C? CAP
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? LED
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? SCHOTTKY
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? LED
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component D? LED
+Added Member To Class: ClassName=5_step_seq Member=Component D? SCHOTTKY
+Added Member To Class: ClassName=5_step_seq Member=Component D? LED
+Added Member To Class: ClassName=5_step_seq Member=Component D? LED
+Added Member To Class: ClassName=5_step_seq Member=Component D? DIODE
+Added Member To Class: ClassName=5_step_seq Member=Component J? JACK Mono
+Added Member To Class: ClassName=5_step_seq Member=Component J? JACK Mono
+Added Member To Class: ClassName=5_step_seq Member=Component J? JACK Mono
+Added Member To Class: ClassName=5_step_seq Member=Component J? JACK Mono
+Added Member To Class: ClassName=5_step_seq Member=Component J? IDC 10
+Added Member To Class: ClassName=5_step_seq Member=Component P? Mono Pot
+Added Member To Class: ClassName=5_step_seq Member=Component P? VR
+Added Member To Class: ClassName=5_step_seq Member=Component P? Mono Pot
+Added Member To Class: ClassName=5_step_seq Member=Component P? Mono Pot
+Added Member To Class: ClassName=5_step_seq Member=Component P? Mono Pot
+Added Member To Class: ClassName=5_step_seq Member=Component P? VR
+Added Member To Class: ClassName=5_step_seq Member=Component P? Mono Pot
+Added Member To Class: ClassName=5_step_seq Member=Component Q? BC547
+Added Member To Class: ClassName=5_step_seq Member=Component Q? BC547
+Added Member To Class: ClassName=5_step_seq Member=Component Q? BC547
+Added Member To Class: ClassName=5_step_seq Member=Component Q? BC547
+Added Member To Class: ClassName=5_step_seq Member=Component Q? BC547
+Added Member To Class: ClassName=5_step_seq Member=Component Q? BC547
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component R? RES
+Added Member To Class: ClassName=5_step_seq Member=Component S? DPDT
+Added Member To Class: ClassName=5_step_seq Member=Component S? SPDT
+Added Member To Class: ClassName=5_step_seq Member=Component S? SPDT
+Added Member To Class: ClassName=5_step_seq Member=Component S? SPDT
+Added Member To Class: ClassName=5_step_seq Member=Component S? SPDT
+Added Member To Class: ClassName=5_step_seq Member=Component S? SPDT
+Added Member To Class: ClassName=5_step_seq Member=Component U? CD4017BE
+Added Member To Class: ClassName=5_step_seq Member=Component U? TL074CDR
+Added Member To Class: ClassName=5_step_seq Member=Component U? TL074CDR
+Added Member To Class: ClassName=5_step_seq Member=Component U? TL074CDR
+Added Member To Class: ClassName=5_step_seq Member=Component U? TL074CDR

@@ -1,0 +1,19 @@
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J6-6
+Add Pin To Net: Unknown Pin: Pin J6-7
+Add Pin To Net: Unknown Pin: Pin J6-8
+Add Pin To Net: Unknown Pin: Pin J6-9
+Add Pin To Net: Unknown Pin: Pin J6-10
+Change Net Name : Old Net Name=NetP2_3 New Net Name=G1 on
+Change Net Name : Old Net Name=NetP3_3 New Net Name=G2 on
+Change Net Name : Old Net Name=NetP4_3 New Net Name=G3 on
+Change Net Name : Old Net Name=NetP5_3 New Net Name=3 st
+Change Net Name : Old Net Name=NetP8_3 New Net Name=4 st
+Change Net Name : Old Net Name=NetR26_1 New Net Name=5V
+Change Net Name : Old Net Name=NetR27_1 New Net Name=2,5V
+Change Net Name : Old Net Name=NetS6_6 New Net Name=5 st
+Add Class Member: Failed to add class member : Component J6 IDC 10

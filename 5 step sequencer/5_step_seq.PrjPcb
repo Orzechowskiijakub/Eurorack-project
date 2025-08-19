@@ -66,6 +66,104 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CZMQGDCU
 
+[Document2]
+DocumentPath=5_step_seq.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WGYHRSLY
+
+[Document3]
+DocumentPath=OutJob.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Outputs\Gerber Files\5_step_seq-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Outputs\Gerber Files\5_step_seq-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Outputs\Gerber Files\5_step_seq.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Outputs\Gerber Files\5_step_seq.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Outputs\Gerber Files\5_step_seq.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Outputs\Gerber Files\5_step_seq.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Outputs\Gerber Files\5_step_seq.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Outputs\Gerber Files\5_step_seq.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Outputs\Gerber Files\5_step_seq.GM
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Outputs\Gerber Files\5_step_seq.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Outputs\Gerber Files\5_step_seq.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Outputs\Gerber Files\5_step_seq.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Outputs\Gerber Files\5_step_seq.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Outputs\Gerber Files\5_step_seq.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Outputs\Gerber Files\5_step_seq.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Outputs\BOM\5_step_seq_BOM.xlsx
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1030,9 +1128,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=OpAmps.SchLib
-ComponentDesignItemID0=TL074CDR SOIC14
-ComponentSymbolReference0=TL074CDR SOIC14
+ComponentLibraryIdentifier0=Opto.SchLib
+ComponentDesignItemID0=LED THT
+ComponentSymbolReference0=LED THT
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1048,24 +1146,26 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=Color
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=Library Reference
+ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=Package
+ParameterName4=Forward voltage
 ParameterUpdate4=1
-ParameterName5=Package Type
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=Type
+ParameterName6=Package Type
 ParameterUpdate6=1
+ParameterName7=Type
+ParameterUpdate7=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=SOIC14
+ModelName0=LED THT 5 mm
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [5_step_seq.PcbDoc]
+   Generated File[5_step_seq-RoundHoles.TXT]
+   Generated File[5_step_seq-SlotHoles.TXT]
+   Generated File[5_step_seq.LDP]
+   Generated File[5_step_seq.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:15:01 On 19.08.2025

@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 5_step_seq.PcbDoc   19.08.2025  18:15:01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 5_step_seq-RoundHoles.TXT
+ASCII SlotHoles File : 5_step_seq-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             35        PTH        283.68mm (11.17inch)
+T2      0.6mm (24mil)                                             Slot              15        PTH        344.44mm (13.56inch)
+T3      0.762mm (30mil)                                           Round             132       PTH        827.09mm (32.56inch)
+T4      0.9mm (35mil)                                             Round             34        PTH        304.42mm (11.99inch)
+T5      1.1mm (43mil)                                             Round             18        PTH        195.05mm (7.68inch)
+T6      1.2mm (47mil)                                             Slot              24        PTH        406.22mm (15.99inch)
+T7      1.8mm (71mil)                                             Slot              12        PTH        499.52mm (19.67inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              270
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -2,24 +2,30 @@
 FileName = 5_step_seq.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : 5_step_seq.GBO
+Generating : Bottom Solder
+      File : 5_step_seq.GBS
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D33
-    D34
-    D35
-    D36
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
     D37
     D38
-    D39
-    D40
-    D41
 *************************************************************
 
 *************************************************************
@@ -37,6 +43,53 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Layer
+      File : 5_step_seq.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 5_step_seq.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : 5_step_seq.GBP
 
@@ -48,19 +101,8 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : 5_step_seq.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
+    D35
+    D36
 *************************************************************
 
 *************************************************************
@@ -84,6 +126,20 @@ Used DCodes :
     D18
     D19
     D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 5_step_seq.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
 *************************************************************
 
 *************************************************************
@@ -97,8 +153,6 @@ Generating : Bottom Layer
 
 Used DCodes :
     D10
-    D21
-    D22
     D23
     D24
     D25
@@ -108,53 +162,11 @@ Used DCodes :
     D29
     D30
     D31
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : 5_step_seq.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : 5_step_seq.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
     D32
+    D33
+    D34
+    D35
+    D36
 *************************************************************
 
 *************************************************************
@@ -163,6 +175,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D42
+    D49
 *************************************************************
 

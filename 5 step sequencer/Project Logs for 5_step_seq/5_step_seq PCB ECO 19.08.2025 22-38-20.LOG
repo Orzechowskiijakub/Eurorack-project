@@ -1,0 +1,42 @@
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED THT 5 mm raised"; UniqueID = "\TGHPWFIA" ("\TGHPWFIA")
+Change component parameters (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED THT 5 mm raised"; UniqueID = "\GRDTBNAW" ("\GRDTBNAW")
+Change component parameters (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED THT 5 mm raised"; UniqueID = "\TPXXLLOJ" ("\TPXXLLOJ")
+Change component parameters (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "LED THT 5 mm raised"; UniqueID = "\AXQYXPZN" ("\AXQYXPZN")
+Change component parameters (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "LED THT 5 mm raised"; UniqueID = "\ZIWOODWL" ("\ZIWOODWL")
+Change component parameters (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D23(LED SMD 0805)
+Add component (AddParameter): Name = "Color"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=R30(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 V Pin=D23-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=NetD23_2 Pin=D23-2
+Added Pin To Net: NetName=NetD23_2 Pin=R30-1
+Added Net: Name=NetD23_2
+Added Member To Class: ClassName=5_step_seq Member=Component D23 LED
+Added Member To Class: ClassName=5_step_seq Member=Component Q2 BC547
+Added Member To Class: ClassName=5_step_seq Member=Component R30 RES

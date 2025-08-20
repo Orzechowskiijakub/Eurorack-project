@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 3xVCO.PcbDoc   20.08.2025  20:53:01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 3xVCO-RoundHoles.TXT
+ASCII SlotHoles File : 3xVCO-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             147       PTH        865.72mm (34.08inch)
+T2      0.6mm (24mil)                                             Slot              18        PTH        244.46mm (9.62inch)
+T3      0.762mm (30mil)                                           Round             113       PTH        586.00mm (23.07inch)
+T4      0.9mm (35mil)                                             Round             10        PTH        106.69mm (4.20inch)
+T5      1mm (39mil)                                               Round             3         PTH        5.00mm (0.20inch)
+T6      1.1mm (43mil)                                             Round             12        PTH        67.60mm (2.66inch)
+T7      1.5mm (59mil)                                             Slot              2         PTH        18.70mm (0.74inch)
+T8      1.8mm (71mil)                                             Slot              8         PTH        192.53mm (7.58inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              313
+
+Total Processing Time (hh:mm:ss) : 00:00:00

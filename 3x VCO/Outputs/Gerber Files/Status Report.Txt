@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [3xVCO.PcbDoc]
+   Generated File[3xVCO-RoundHoles.TXT]
+   Generated File[3xVCO-SlotHoles.TXT]
+   Generated File[3xVCO.LDP]
+   Generated File[3xVCO.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:53:01 On 20.08.2025

@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=OutJob.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=3xVCO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,8 +83,89 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UYJJPSYC
 
+[Document3]
+DocumentPath=3xVCO.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PLKAQGHI
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for 3x VCO\Design Rule Check - 3xVCO.html
+DocumentPath=Outputs\Gerber Files\3xVCO-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Outputs\Gerber Files\3xVCO-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Outputs\Gerber Files\3xVCO.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Outputs\Gerber Files\3xVCO.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Outputs\Gerber Files\3xVCO.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Outputs\Gerber Files\3xVCO.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Outputs\Gerber Files\3xVCO.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Outputs\Gerber Files\3xVCO.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Outputs\Gerber Files\3xVCO.GM
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Outputs\Gerber Files\3xVCO.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Outputs\Gerber Files\3xVCO.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Outputs\Gerber Files\3xVCO.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Outputs\Gerber Files\3xVCO.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Outputs\Gerber Files\3xVCO.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Outputs\Gerber Files\3xVCO.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Outputs\BOM\3x VCO_BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Outputs\BOM\Free Documents_BOM.xlsx
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1033,6 +1131,96 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Connectors.SchLib
+ComponentDesignItemID0=IDC 10 pin
+ComponentSymbolReference0=IDC 10 pin
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Connectors.SchLib
+ComponentDesignItemID1=PJ301M
+ComponentSymbolReference1=PJ301M
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Diodes.SchLib
+ComponentDesignItemID2=Diode THT
+ComponentSymbolReference2=Diode THT
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Diodes.SchLib
+ComponentDesignItemID3=Schottky Diode THT
+ComponentSymbolReference3=Schottky Diode THT
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Generic components.SchLib
+ComponentDesignItemID4=Capacitor Electr THT 5mm
+ComponentSymbolReference4=Capacitor Electr THT 5mm
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Generic components.SchLib
+ComponentDesignItemID5=Capacitor THT 5mm
+ComponentSymbolReference5=Capacitor THT 5mm
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Generic components.SchLib
+ComponentDesignItemID6=Resistor THT
+ComponentSymbolReference6=Resistor THT
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Generic components.SchLib
+ComponentDesignItemID7=Thermistor NTC THT
+ComponentSymbolReference7=Thermistor NTC THT
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=ICs.SchLib
+ComponentDesignItemID8=CD40106 DIP-14
+ComponentSymbolReference8=CD40106 DIP-14
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=OpAmps.SchLib
+ComponentDesignItemID9=TL074CDR SOIC14
+ComponentSymbolReference9=TL074CDR SOIC14
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Potentiometers.SchLib
+ComponentDesignItemID10=Potentiometer 9 mm
+ComponentSymbolReference10=Potentiometer 9 mm
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Potentiometers.SchLib
+ComponentDesignItemID11=VR A Multiturn THT
+ComponentSymbolReference11=VR A Multiturn THT
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Potentiometers.SchLib
+ComponentDesignItemID12=VR B 9 mm
+ComponentSymbolReference12=VR B 9 mm
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Transistors.SchLib
+ComponentDesignItemID13=BC548
+ComponentSymbolReference13=BC548
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Transistors.SchLib
+ComponentDesignItemID14=BC558
+ComponentSymbolReference14=BC558
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1046,6 +1234,94 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Forward voltage
+ParameterUpdate3=1
+ParameterName4=Group
+ParameterUpdate4=1
+ParameterName5=Label
+ParameterUpdate5=1
+ParameterName6=Library Reference
+ParameterUpdate6=1
+ParameterName7=Manufacturer
+ParameterUpdate7=1
+ParameterName8=Max current
+ParameterUpdate8=1
+ParameterName9=Max reverse voltage
+ParameterUpdate9=1
+ParameterName10=Model
+ParameterUpdate10=1
+ParameterName11=Package
+ParameterUpdate11=1
+ParameterName12=Package Type
+ParameterUpdate12=1
+ParameterName13=Parameter
+ParameterUpdate13=1
+ParameterName14=Taper
+ParameterUpdate14=1
+ParameterName15=Tolerance
+ParameterUpdate15=1
+ParameterName16=Type
+ParameterUpdate16=1
+ParameterName17=Value
+ParameterUpdate17=1
+ParameterName18=Voltage rating
+ParameterUpdate18=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=9 mm PCB Potentiometer
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=Alpha_9mm_mono
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=Cap electrolytic THT 5mm
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=Cap THT 5mm
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=Diode THT 10 mm
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=DIP-14
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=DIP-14 socket
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=Multiturn Potentiometer inline
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=Multiturn Potentiometer Offset
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=PJ301M
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=Resistor THT 10mm
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=Resistor THT vertical
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=SOIC14
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=THERMISTOR THT 2,54 MM
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=TO-92 narrow
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=TO-92 wide
+ModelUpdate15=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

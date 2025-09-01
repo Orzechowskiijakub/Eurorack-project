@@ -1,0 +1,10 @@
+Change component parameters: Designator = "C4" ("C4"); Footprint = "Cap electrolytic THT 5mm"; UniqueID = "\SGWIHVIF" ("\SGWIHVIF")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "Cap electrolytic THT 5mm"; UniqueID = "\KFMOAYVX" ("\KFMOAYVX")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"

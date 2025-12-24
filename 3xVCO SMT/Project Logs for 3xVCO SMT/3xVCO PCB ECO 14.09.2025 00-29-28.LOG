@@ -1,0 +1,60 @@
+Removed Member From Class: ClassName=Blend VCO Member=P12
+Removed Member From Class: ClassName=Blend VCO Member=R45
+Removed Member From Class: ClassName=Blend VCO Member=R48
+Added Pin To Net: NetName=1V/OCT BLEND Pin=J6-3
+Added Pin To Net: NetName=1V/OCT BLEND Pin=R28-2
+Added Net: Name=1V/OCT BLEND
+Added Pin To Net: NetName=1V/OCT SAW Pin=J3-3
+Added Pin To Net: NetName=1V/OCT SAW Pin=R13-2
+Added Net: Name=1V/OCT SAW
+Added Pin To Net: NetName=1V/OCT TRIANGLE Pin=J9-3
+Added Pin To Net: NetName=1V/OCT TRIANGLE Pin=R48-2
+Added Net: Name=1V/OCT TRIANGLE
+Added Pin To Net: NetName=FM CV BLEND Pin=J7-3
+Added Pin To Net: NetName=FM CV BLEND Pin=R29-2
+Added Net: Name=FM CV BLEND
+Added Pin To Net: NetName=FM CV SAW Pin=J4-3
+Added Pin To Net: NetName=FM CV SAW Pin=R14-2
+Added Net: Name=FM CV SAW
+Added Pin To Net: NetName=FM CV TRIANGLE Pin=J10-3
+Added Pin To Net: NetName=FM CV TRIANGLE Pin=R49-2
+Added Net: Name=FM CV TRIANGLE
+Added Member To Class: ClassName=Blend VCO Member=Component J5 JACK Mono
+Added Member To Class: ClassName=Blend VCO Member=Component J6 JACK Mono
+Added Member To Class: ClassName=Blend VCO Member=Component J7 JACK Mono
+Added Member To Class: ClassName=Triangle VCO Member=Component J8 JACK Mono
+Added Member To Class: ClassName=Triangle VCO Member=Component J10 JACK Mono
+Added Member To Class: ClassName=Blend VCO Member=Component P7 Mono Pot
+Added Member To Class: ClassName=Blend VCO Member=Component P9 VR
+Added Member To Class: ClassName=Blend VCO Member=Component P10 Mono Pot
+Added Member To Class: ClassName=Blend VCO Member=Component P11 VR
+Added Member To Class: ClassName=Triangle VCO Member=Component P13 Mono Pot
+Added Member To Class: ClassName=Blend VCO Member=Component R18 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R19 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R20 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R21 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R22 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R23 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R24 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R25 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R26 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R27 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R28 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R29 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R30 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R31 RES
+Added Member To Class: ClassName=Blend VCO Member=Component R32 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R33 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R34 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R35 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R36 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R37 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R38 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R39 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R40 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R41 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R42 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R43 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R44 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R46 RES
+Added Member To Class: ClassName=Triangle VCO Member=Component R47 RES

@@ -1,0 +1,120 @@
+Change Physical Footprint: Designator=C1 Old Footprint=Cap electrolytic THT 5mm New Footprint=Cap electrolytic THT 5mm
+Change Physical Footprint: Designator=C2 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C3 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C4 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C5 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C6 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C7 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C8 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C9 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C10 Old Footprint=Cap electrolytic THT 5mm New Footprint=Cap electrolytic THT 5mm
+Change Physical Footprint: Designator=C11 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C12 Old Footprint=Cap THT 5mm New Footprint=Cap THT 5mm
+Change Physical Footprint: Designator=C13 Old Footprint=Cap THT 5mm New Footprint=Cap THT 5mm
+Change Physical Footprint: Designator=C14 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C15 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C16 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C17 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=C18 Old Footprint=Cap SMD 0805 New Footprint=Cap SMD 0805
+Change Physical Footprint: Designator=D1 Old Footprint=Diode THT 10 mm New Footprint=Diode THT 10 mm
+Change Physical Footprint: Designator=D2 Old Footprint=Diode THT 10 mm New Footprint=Diode THT 10 mm
+Change Physical Footprint: Designator=D3 Old Footprint=LED SMD 0805 New Footprint=LED SMD 0805
+Change Physical Footprint: Designator=D4 Old Footprint=Diode THT 10 mm New Footprint=Diode THT 10 mm
+Change Physical Footprint: Designator=D5 Old Footprint=Diode THT 10 mm New Footprint=Diode THT 10 mm
+Change Physical Footprint: Designator=D6 Old Footprint=Diode THT 10 mm New Footprint=Diode THT 10 mm
+Change Physical Footprint: Designator=D7 Old Footprint=Diode THT 10 mm New Footprint=Diode THT 10 mm
+Change Physical Footprint: Designator=D8 Old Footprint=Diode THT 10 mm New Footprint=Diode THT 10 mm
+Change Physical Footprint: Designator=J1 Old Footprint=IDC 10 PIN New Footprint=IDC 10 PIN
+Change Physical Footprint: Designator=J2 Old Footprint=PJ301M New Footprint=PJ301M
+Change Physical Footprint: Designator=J3 Old Footprint=PJ301M New Footprint=PJ301M
+Change Physical Footprint: Designator=J4 Old Footprint=PJ301M New Footprint=PJ301M
+Change Physical Footprint: Designator=J5 Old Footprint=PJ301M New Footprint=PJ301M
+Change Physical Footprint: Designator=J6 Old Footprint=PJ301M New Footprint=PJ301M
+Change Physical Footprint: Designator=J7 Old Footprint=PJ301M New Footprint=PJ301M
+Change Physical Footprint: Designator=J8 Old Footprint=PJ301M New Footprint=PJ301M
+Change Physical Footprint: Designator=J9 Old Footprint=PJ301M New Footprint=PJ301M
+Change Physical Footprint: Designator=J10 Old Footprint=PJ301M New Footprint=PJ301M
+Change Physical Footprint: Designator=J11 Old Footprint=PJ301M New Footprint=PJ301M
+Change Physical Footprint: Designator=P1 Old Footprint=9 mm PCB Potentiometer New Footprint=9 mm PCB Potentiometer
+Change Physical Footprint: Designator=P2 Old Footprint=9 mm PCB Potentiometer New Footprint=9 mm PCB Potentiometer
+Change Physical Footprint: Designator=P3 Old Footprint=Multiturn Potentiometer inline New Footprint=Multiturn Potentiometer inline
+Change Physical Footprint: Designator=P4 Old Footprint=9 mm PCB Potentiometer New Footprint=9 mm PCB Potentiometer
+Change Physical Footprint: Designator=P5 Old Footprint=9 mm PCB Potentiometer New Footprint=9 mm PCB Potentiometer
+Change Physical Footprint: Designator=P6 Old Footprint=9 mm PCB Potentiometer New Footprint=9 mm PCB Potentiometer
+Change Physical Footprint: Designator=P7 Old Footprint=Multiturn Potentiometer inline New Footprint=Multiturn Potentiometer inline
+Change Physical Footprint: Designator=P8 Old Footprint=9 mm PCB Potentiometer New Footprint=9 mm PCB Potentiometer
+Change Physical Footprint: Designator=P9 Old Footprint=9 mm PCB Potentiometer New Footprint=9 mm PCB Potentiometer
+Change Physical Footprint: Designator=P10 Old Footprint=9 mm PCB Potentiometer New Footprint=9 mm PCB Potentiometer
+Change Physical Footprint: Designator=P11 Old Footprint=9 mm PCB Potentiometer New Footprint=9 mm PCB Potentiometer
+Change Physical Footprint: Designator=P12 Old Footprint=9 mm PCB Potentiometer New Footprint=9 mm PCB Potentiometer
+Change Physical Footprint: Designator=P13 Old Footprint=Multiturn Potentiometer inline New Footprint=Multiturn Potentiometer inline
+Change Physical Footprint: Designator=P14 Old Footprint=9 mm PCB Potentiometer New Footprint=9 mm PCB Potentiometer
+Change Physical Footprint: Designator=Q1 Old Footprint=TO-92 wide New Footprint=TO-92 wide
+Change Physical Footprint: Designator=Q2 Old Footprint=TO-92 wide New Footprint=TO-92 wide
+Change Physical Footprint: Designator=Q3 Old Footprint=TO-92 wide New Footprint=TO-92 wide
+Change Physical Footprint: Designator=Q4 Old Footprint=TO-92 wide New Footprint=TO-92 wide
+Change Physical Footprint: Designator=Q5 Old Footprint=TO-92 wide New Footprint=TO-92 wide
+Change Physical Footprint: Designator=Q6 Old Footprint=TO-92 wide New Footprint=TO-92 wide
+Change Physical Footprint: Designator=R1 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R2 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R3 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R4 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R5 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R6 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R7 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R8 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R9 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R10 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R11 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R12 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R13 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R14 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R15 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R16 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R17 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R18 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R19 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R20 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R21 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R22 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R23 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R24 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R25 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R26 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R27 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R28 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R29 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R30 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R31 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R32 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R33 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R34 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R35 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R36 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R37 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R38 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R39 Old Footprint=Resistor THT 10mm New Footprint=Resistor THT 10mm
+Change Physical Footprint: Designator=R40 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R41 Old Footprint=Resistor THT 10mm New Footprint=Resistor THT 10mm
+Change Physical Footprint: Designator=R42 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R43 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R44 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R45 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R46 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R47 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=U1 Old Footprint=DIP-14 socket New Footprint=DIP-14 socket
+Change Physical Footprint: Designator=U2 Old Footprint=SOIC14 New Footprint=SOIC14
+Change Physical Footprint: Designator=U3 Old Footprint=SOIC14 New Footprint=SOIC14
+Change Physical Footprint: Designator=U4 Old Footprint=SOIC14 New Footprint=SOIC14
+Change Physical Footprint: Designator=VR1 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM
+Change Physical Footprint: Designator=VR2 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM
+Change Physical Footprint: Designator=VR3 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM
+Change Physical Footprint: Designator=VR4 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM
+Change Physical Footprint: Designator=VR5 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM
+Change Physical Footprint: Designator=VR6 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM
+Change Physical Footprint: Designator=VR7 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM
+Change Physical Footprint: Designator=VR8 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM
+Change Physical Footprint: Designator=VR9 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM
+Change Physical Footprint: Designator=VR10 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM
+Change Physical Footprint: Designator=VR11 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM
+Change Physical Footprint: Designator=VR12 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=THERMISTOR THT 2,54 MM

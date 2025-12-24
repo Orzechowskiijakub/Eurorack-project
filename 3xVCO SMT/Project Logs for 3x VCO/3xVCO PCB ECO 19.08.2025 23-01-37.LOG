@@ -1,0 +1,16 @@
+Added Component: Designator=D6(LED SMD 0805)
+Add component (AddParameter): Name = "Color"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=R25(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 V Pin=D6-1
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R25-1
+Added Net: Name=NetD6_2
+Added Member To Class: ClassName=3xVCO Member=Component D6 LED
+Added Member To Class: ClassName=3xVCO Member=Component R25 RES

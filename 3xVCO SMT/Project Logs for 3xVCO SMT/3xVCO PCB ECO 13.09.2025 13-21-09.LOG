@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=P10 Old DesignItemId=VR B THT New DesignItemId=VR B 9 mm
+Change Component Footprint: Designator=P10 Old Footprint=THT Trimmer Pot New Footprint=9 mm PCB Potentiometer
+Change Component Description : Designator=P10 Old Description=PCB Mount Trimmer Potentiometer Top Adjustable as Variable Resistor Clockwise Decrease New Description=PCB Mount 9mm Mono Potentiometer THT as Variable Resistor Clockwise Decrease

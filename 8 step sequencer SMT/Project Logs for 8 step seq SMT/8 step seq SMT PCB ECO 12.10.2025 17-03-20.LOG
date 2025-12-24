@@ -1,0 +1,982 @@
+Added Component: Designator=C1(Cap SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(Cap SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(Cap SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(Cap electrolytic THT 5mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(Cap SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(Cap SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(Cap SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(Cap electrolytic THT 5mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(Cap SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED THT 3 mm raised)
+Add component (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED THT 3 mm raised)
+Add component (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED THT 3 mm raised)
+Add component (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED THT 3 mm raised)
+Add component (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED THT 3 mm raised)
+Add component (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED THT 3 mm raised)
+Add component (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D7(LED THT 3 mm raised)
+Add component (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED THT 3 mm raised)
+Add component (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D9(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D10(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D11(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D12(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D13(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D14(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D15(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D16(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D17(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D18(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D19(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D20(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D21(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D22(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D23(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D24(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D25(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D26(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D27(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D28(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D29(SOD-123)
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D30(Diode THT 10 mm)
+Add component (AddParameter): Name = "Max Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N5819"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Added Component: Designator=D31(LED SMD 0805)
+Add component (AddParameter): Name = "Color"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D32(Diode THT 10 mm)
+Add component (AddParameter): Name = "Max Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "1N5819"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Added Component: Designator=J1(PJ301M)
+Add component (AddParameter): Name = "Label"; Value = "CLK in"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Added Component: Designator=J2(PJ301M)
+Add component (AddParameter): Name = "Label"; Value = "RESET in"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Added Component: Designator=J3(PJ301M)
+Add component (AddParameter): Name = "Label"; Value = "CLK out"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Added Component: Designator=J4(PJ301M)
+Add component (AddParameter): Name = "Label"; Value = "GATE out"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Added Component: Designator=J5(PJ301M)
+Add component (AddParameter): Name = "Label"; Value = "CV out"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Added Component: Designator=J6(IDC 10 PIN)
+Added Component: Designator=P1(9 mm PCB Potentiometer)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = "STEP 1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B100k"; VariantName = "[No Variations]"
+Added Component: Designator=P2(9 mm PCB Potentiometer)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = "STEP 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B100k"; VariantName = "[No Variations]"
+Added Component: Designator=P3(9 mm PCB Potentiometer)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = "STEP 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B100k"; VariantName = "[No Variations]"
+Added Component: Designator=P4(9 mm PCB Potentiometer)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = "STEP 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B100k"; VariantName = "[No Variations]"
+Added Component: Designator=P5(9 mm PCB Potentiometer)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = "STEP 5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B100k"; VariantName = "[No Variations]"
+Added Component: Designator=P6(9 mm PCB Potentiometer)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = "STEP 6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B100k"; VariantName = "[No Variations]"
+Added Component: Designator=P7(9 mm PCB Potentiometer)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = "STEP 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B100k"; VariantName = "[No Variations]"
+Added Component: Designator=P8(9 mm PCB Potentiometer)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = "STEP 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B100k"; VariantName = "[No Variations]"
+Added Component: Designator=P9(9 mm PCB Potentiometer)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = "RATE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B250k"; VariantName = "[No Variations]"
+Added Component: Designator=P10(Multiturn Potentiometer inline)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Added Component: Designator=P11(Multiturn Potentiometer inline)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23-3)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23-3)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23-3)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT-23-3)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(SOT-23-3)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(SOT-23-3)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(SOT-23-3)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(SOT-23-3)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(TO-92 wide)
+Add component (AddParameter): Name = "Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R11(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R12(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Added Component: Designator=R13(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200r"; VariantName = "[No Variations]"
+Added Component: Designator=R15(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R17(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R18(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R19(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R20(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R21(Resistor THT 10mm)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6k8"; VariantName = "[No Variations]"
+Added Component: Designator=R22(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R23(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R24(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R25(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R26(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R27(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R28(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R29(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R30(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "68k"; VariantName = "[No Variations]"
+Added Component: Designator=R31(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R32(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "51k"; VariantName = "[No Variations]"
+Added Component: Designator=R33(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18k"; VariantName = "[No Variations]"
+Added Component: Designator=R34(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R35(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R36(Resistor SMD 0805)
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=S1(MTS-102)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = "GATE 1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S2(MTS-102)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = "GATE 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S3(MTS-102)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = "GATE 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S4(MTS-102)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = "GATE 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S5(MTS-102)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = "GATE 5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S6(MTS-102)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = "GATE 6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S7(MTS-102)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = "GATE 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S8(MTS-102)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = "GATE 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S9(MTS-102)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = "ODD/EVEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S10(MTS-202)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = "STEP COUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=S11(MTS-102)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signals"; Value = "OUT RANGE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC14)
+Add component (AddParameter): Name = "Package"; Value = "SOIC14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Op Amp"; VariantName = "[No Variations]"
+Added Component: Designator=U2(DIP-16 socket)
+Add component (AddParameter): Name = "Package"; Value = "DIP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Counter"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+12 V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+12 V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+12 V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+12 V Pin=C6-2
+Added Pin To Net: NetName=-12 V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=-12 V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=-12 V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD9_2 Pin=D10-2
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD9_2 Pin=D11-2
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=CLK buf Pin=D13-2
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD9_2 Pin=D14-2
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD9_2 Pin=D15-2
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD9_2 Pin=D16-2
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=NetD9_2 Pin=D17-2
+Added Pin To Net: NetName=NetD18_1 Pin=D18-1
+Added Pin To Net: NetName=NetD9_2 Pin=D18-2
+Added Pin To Net: NetName=NetD19_1 Pin=D19-1
+Added Pin To Net: NetName=NetD19_2 Pin=D19-2
+Added Pin To Net: NetName=NetD20_1 Pin=D20-1
+Added Pin To Net: NetName=NetD19_2 Pin=D20-2
+Added Pin To Net: NetName=NetD21_1 Pin=D21-1
+Added Pin To Net: NetName=NetD19_2 Pin=D21-2
+Added Pin To Net: NetName=NetD22_1 Pin=D22-1
+Added Pin To Net: NetName=NetD22_2 Pin=D22-2
+Added Pin To Net: NetName=NetD23_1 Pin=D23-1
+Added Pin To Net: NetName=NetD23_2 Pin=D23-2
+Added Pin To Net: NetName=NetD24_1 Pin=D24-1
+Added Pin To Net: NetName=NetD19_2 Pin=D24-2
+Added Pin To Net: NetName=NetD25_1 Pin=D25-1
+Added Pin To Net: NetName=NetD19_2 Pin=D25-2
+Added Pin To Net: NetName=NetC2_2 Pin=D26-1
+Added Pin To Net: NetName=NetD23_2 Pin=D26-2
+Added Pin To Net: NetName=NetD27_1 Pin=D27-1
+Added Pin To Net: NetName=NetD19_2 Pin=D27-2
+Added Pin To Net: NetName=NetD28_1 Pin=D28-1
+Added Pin To Net: NetName=NetD19_2 Pin=D28-2
+Added Pin To Net: NetName=NetD29_1 Pin=D29-1
+Added Pin To Net: NetName=NetD19_2 Pin=D29-2
+Added Pin To Net: NetName=NetD30_1 Pin=D30-1
+Added Pin To Net: NetName=+12 V Pin=D30-2
+Added Pin To Net: NetName=+12 V Pin=D31-1
+Added Pin To Net: NetName=NetD31_2 Pin=D31-2
+Added Pin To Net: NetName=-12 V Pin=D32-1
+Added Pin To Net: NetName=NetD32_2 Pin=D32-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetD22_1 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetC2_1 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GATE out Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=CV out Pin=J5-3
+Added Pin To Net: NetName=NetD32_2 Pin=J6-1
+Added Pin To Net: NetName=NetD32_2 Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=GND Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J6-8
+Added Pin To Net: NetName=NetD30_1 Pin=J6-9
+Added Pin To Net: NetName=NetD30_1 Pin=J6-10
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetD19_1 Pin=P1-2
+Added Pin To Net: NetName=G1 on Pin=P1-3
+Added Pin To Net: NetName=NetP1_1 Pin=P2-1
+Added Pin To Net: NetName=NetD20_1 Pin=P2-2
+Added Pin To Net: NetName=G2 on Pin=P2-3
+Added Pin To Net: NetName=NetP1_1 Pin=P3-1
+Added Pin To Net: NetName=NetD21_1 Pin=P3-2
+Added Pin To Net: NetName=G3 on Pin=P3-3
+Added Pin To Net: NetName=NetP1_1 Pin=P4-1
+Added Pin To Net: NetName=NetD24_1 Pin=P4-2
+Added Pin To Net: NetName=3 st Pin=P4-3
+Added Pin To Net: NetName=NetP1_1 Pin=P5-1
+Added Pin To Net: NetName=NetD25_1 Pin=P5-2
+Added Pin To Net: NetName=4 st Pin=P5-3
+Added Pin To Net: NetName=NetP1_1 Pin=P6-1
+Added Pin To Net: NetName=NetD27_1 Pin=P6-2
+Added Pin To Net: NetName=5 st Pin=P6-3
+Added Pin To Net: NetName=NetP1_1 Pin=P7-1
+Added Pin To Net: NetName=NetD28_1 Pin=P7-2
+Added Pin To Net: NetName=G7 on Pin=P7-3
+Added Pin To Net: NetName=NetP1_1 Pin=P8-1
+Added Pin To Net: NetName=NetD29_1 Pin=P8-2
+Added Pin To Net: NetName=G8 on Pin=P8-3
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=NetP9_3 Pin=P9-3
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=NetP10_2 Pin=P10-2
+Added Pin To Net: NetName=GND Pin=P11-1
+Added Pin To Net: NetName=NetP11_2 Pin=P11-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetD8_2 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q4-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=NetD3_2 Pin=Q6-3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=NetD2_2 Pin=Q7-3
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q8-3
+Added Pin To Net: NetName=+12 V Pin=Q9-1
+Added Pin To Net: NetName=NetD12_2 Pin=Q9-2
+Added Pin To Net: NetName=NetQ9_3 Pin=Q9-3
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=+12 V Pin=R1-2
+Added Pin To Net: NetName=NetD2_1 Pin=R2-1
+Added Pin To Net: NetName=+12 V Pin=R2-2
+Added Pin To Net: NetName=NetD3_1 Pin=R3-1
+Added Pin To Net: NetName=+12 V Pin=R3-2
+Added Pin To Net: NetName=NetD4_1 Pin=R4-1
+Added Pin To Net: NetName=+12 V Pin=R4-2
+Added Pin To Net: NetName=NetD5_1 Pin=R5-1
+Added Pin To Net: NetName=+12 V Pin=R5-2
+Added Pin To Net: NetName=NetD6_1 Pin=R6-1
+Added Pin To Net: NetName=+12 V Pin=R6-2
+Added Pin To Net: NetName=NetD7_1 Pin=R7-1
+Added Pin To Net: NetName=+12 V Pin=R7-2
+Added Pin To Net: NetName=NetD8_1 Pin=R8-1
+Added Pin To Net: NetName=+12 V Pin=R8-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R9-1
+Added Pin To Net: NetName=G8 on Pin=R9-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R10-1
+Added Pin To Net: NetName=G7 on Pin=R10-2
+Added Pin To Net: NetName=+12 V Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R13-1
+Added Pin To Net: NetName=5 st Pin=R13-2
+Added Pin To Net: NetName=GATE out Pin=R14-1
+Added Pin To Net: NetName=NetQ9_3 Pin=R14-2
+Added Pin To Net: NetName=NetD12_2 Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetQ9_3 Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R17-1
+Added Pin To Net: NetName=4 st Pin=R17-2
+Added Pin To Net: NetName=NetD9_2 Pin=R18-1
+Added Pin To Net: NetName=NetD13_1 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetD13_1 Pin=R19-2
+Added Pin To Net: NetName=NetQ5_1 Pin=R20-1
+Added Pin To Net: NetName=3 st Pin=R20-2
+Added Pin To Net: NetName=NetC1_2 Pin=R21-1
+Added Pin To Net: NetName=NetP9_2 Pin=R21-2
+Added Pin To Net: NetName=NetQ6_1 Pin=R22-1
+Added Pin To Net: NetName=G3 on Pin=R22-2
+Added Pin To Net: NetName=NetP9_3 Pin=R23-1
+Added Pin To Net: NetName=NetJ1_2 Pin=R23-2
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetP9_3 Pin=R24-2
+Added Pin To Net: NetName=NetQ7_1 Pin=R25-1
+Added Pin To Net: NetName=G2 on Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=NetR24_1 Pin=R26-2
+Added Pin To Net: NetName=NetQ8_1 Pin=R27-1
+Added Pin To Net: NetName=G1 on Pin=R27-2
+Added Pin To Net: NetName=NetJ3_3 Pin=R28-1
+Added Pin To Net: NetName=CLK buf Pin=R28-2
+Added Pin To Net: NetName=CV out Pin=R29-1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetD19_2 Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=NetD22_2 Pin=R31-2
+Added Pin To Net: NetName=5V Pin=R32-1
+Added Pin To Net: NetName=NetP10_2 Pin=R32-2
+Added Pin To Net: NetName=2,5V Pin=R33-1
+Added Pin To Net: NetName=NetP11_2 Pin=R33-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=NetC2_2 Pin=R34-2
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=NetD23_2 Pin=R35-2
+Added Pin To Net: NetName=NetD31_2 Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=G1 on Pin=S1-1
+Added Pin To Net: NetName=NetD18_1 Pin=S1-2
+Added Pin To Net: NetName=G2 on Pin=S2-1
+Added Pin To Net: NetName=NetD17_1 Pin=S2-2
+Added Pin To Net: NetName=G3 on Pin=S3-1
+Added Pin To Net: NetName=NetD16_1 Pin=S3-2
+Added Pin To Net: NetName=3 st Pin=S4-1
+Added Pin To Net: NetName=NetD15_1 Pin=S4-2
+Added Pin To Net: NetName=4 st Pin=S5-1
+Added Pin To Net: NetName=NetD14_1 Pin=S5-2
+Added Pin To Net: NetName=5 st Pin=S6-1
+Added Pin To Net: NetName=NetD11_1 Pin=S6-2
+Added Pin To Net: NetName=G7 on Pin=S7-1
+Added Pin To Net: NetName=NetD10_1 Pin=S7-2
+Added Pin To Net: NetName=G8 on Pin=S8-1
+Added Pin To Net: NetName=NetD9_1 Pin=S8-2
+Added Pin To Net: NetName=EVEN Pin=S9-1
+Added Pin To Net: NetName=NetD23_1 Pin=S9-2
+Added Pin To Net: NetName=ODD Pin=S9-3
+Added Pin To Net: NetName=4 st Pin=S10-1
+Added Pin To Net: NetName=EVEN Pin=S10-2
+Added Pin To Net: NetName=8 st Pin=S10-3
+Added Pin To Net: NetName=3 st Pin=S10-4
+Added Pin To Net: NetName=ODD Pin=S10-5
+Added Pin To Net: NetName=5 st Pin=S10-6
+Added Pin To Net: NetName=5V Pin=S11-1
+Added Pin To Net: NetName=NetR30_1 Pin=S11-2
+Added Pin To Net: NetName=2,5V Pin=S11-3
+Added Pin To Net: NetName=NetP9_3 Pin=U1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=NetR24_1 Pin=U1-3
+Added Pin To Net: NetName=+12 V Pin=U1-4
+Added Pin To Net: NetName=NetD22_2 Pin=U1-5
+Added Pin To Net: NetName=CLK buf Pin=U1-6
+Added Pin To Net: NetName=CLK buf Pin=U1-7
+Added Pin To Net: NetName=NetR29_2 Pin=U1-8
+Added Pin To Net: NetName=NetR29_2 Pin=U1-9
+Added Pin To Net: NetName=NetR30_1 Pin=U1-10
+Added Pin To Net: NetName=-12 V Pin=U1-11
+Added Pin To Net: NetName=NetD13_1 Pin=U1-12
+Added Pin To Net: NetName=NetR11_2 Pin=U1-13
+Added Pin To Net: NetName=NetD12_1 Pin=U1-14
+Added Pin To Net: NetName=5 st Pin=U2-1
+Added Pin To Net: NetName=G2 on Pin=U2-2
+Added Pin To Net: NetName=G1 on Pin=U2-3
+Added Pin To Net: NetName=G3 on Pin=U2-4
+Added Pin To Net: NetName=G7 on Pin=U2-5
+Added Pin To Net: NetName=G8 on Pin=U2-6
+Added Pin To Net: NetName=3 st Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=8 st Pin=U2-9
+Added Pin To Net: NetName=4 st Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=CLK buf Pin=U2-14
+Added Pin To Net: NetName=NetD23_2 Pin=U2-15
+Added Pin To Net: NetName=+12 V Pin=U2-16
+Added Member To Class: ClassName=8 step seq SMT Member=Component C1 CAP
+Added Member To Class: ClassName=8 step seq SMT Member=Component C2 CAP
+Added Member To Class: ClassName=8 step seq SMT Member=Component C3 CAP
+Added Member To Class: ClassName=8 step seq SMT Member=Component C4 CAP
+Added Member To Class: ClassName=8 step seq SMT Member=Component C5 CAP
+Added Member To Class: ClassName=8 step seq SMT Member=Component C6 CAP
+Added Member To Class: ClassName=8 step seq SMT Member=Component C7 CAP
+Added Member To Class: ClassName=8 step seq SMT Member=Component C8 CAP
+Added Member To Class: ClassName=8 step seq SMT Member=Component C9 CAP
+Added Member To Class: ClassName=8 step seq SMT Member=Component D1 LED
+Added Member To Class: ClassName=8 step seq SMT Member=Component D2 LED
+Added Member To Class: ClassName=8 step seq SMT Member=Component D3 LED
+Added Member To Class: ClassName=8 step seq SMT Member=Component D4 LED
+Added Member To Class: ClassName=8 step seq SMT Member=Component D5 LED
+Added Member To Class: ClassName=8 step seq SMT Member=Component D6 LED
+Added Member To Class: ClassName=8 step seq SMT Member=Component D7 LED
+Added Member To Class: ClassName=8 step seq SMT Member=Component D8 LED
+Added Member To Class: ClassName=8 step seq SMT Member=Component D9 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D10 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D11 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D12 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D13 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D14 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D15 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D16 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D17 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D18 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D19 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D20 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D21 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D22 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D23 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D24 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D25 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D26 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D27 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D28 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D29 DIODE
+Added Member To Class: ClassName=8 step seq SMT Member=Component D30 SCHOTTKY
+Added Member To Class: ClassName=8 step seq SMT Member=Component D31 LED
+Added Member To Class: ClassName=8 step seq SMT Member=Component D32 SCHOTTKY
+Added Member To Class: ClassName=8 step seq SMT Member=Component J1 JACK Mono
+Added Member To Class: ClassName=8 step seq SMT Member=Component J2 JACK Mono
+Added Member To Class: ClassName=8 step seq SMT Member=Component J3 JACK Mono
+Added Member To Class: ClassName=8 step seq SMT Member=Component J4 JACK Mono
+Added Member To Class: ClassName=8 step seq SMT Member=Component J5 JACK Mono
+Added Member To Class: ClassName=8 step seq SMT Member=Component J6 IDC 10
+Added Member To Class: ClassName=8 step seq SMT Member=Component P1 Mono Pot
+Added Member To Class: ClassName=8 step seq SMT Member=Component P2 Mono Pot
+Added Member To Class: ClassName=8 step seq SMT Member=Component P3 Mono Pot
+Added Member To Class: ClassName=8 step seq SMT Member=Component P4 Mono Pot
+Added Member To Class: ClassName=8 step seq SMT Member=Component P5 Mono Pot
+Added Member To Class: ClassName=8 step seq SMT Member=Component P6 Mono Pot
+Added Member To Class: ClassName=8 step seq SMT Member=Component P7 Mono Pot
+Added Member To Class: ClassName=8 step seq SMT Member=Component P8 Mono Pot
+Added Member To Class: ClassName=8 step seq SMT Member=Component P9 VR
+Added Member To Class: ClassName=8 step seq SMT Member=Component P10 VR
+Added Member To Class: ClassName=8 step seq SMT Member=Component P11 VR
+Added Member To Class: ClassName=8 step seq SMT Member=Component Q1 BC847
+Added Member To Class: ClassName=8 step seq SMT Member=Component Q2 BC847
+Added Member To Class: ClassName=8 step seq SMT Member=Component Q3 BC847
+Added Member To Class: ClassName=8 step seq SMT Member=Component Q4 BC847
+Added Member To Class: ClassName=8 step seq SMT Member=Component Q5 BC847
+Added Member To Class: ClassName=8 step seq SMT Member=Component Q6 BC847
+Added Member To Class: ClassName=8 step seq SMT Member=Component Q7 BC847
+Added Member To Class: ClassName=8 step seq SMT Member=Component Q8 BC847
+Added Member To Class: ClassName=8 step seq SMT Member=Component Q9 BC547
+Added Member To Class: ClassName=8 step seq SMT Member=Component R1 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R2 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R3 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R4 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R5 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R6 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R7 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R8 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R9 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R10 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R11 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R12 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R13 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R14 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R15 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R16 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R17 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R18 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R19 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R20 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R21 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R22 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R23 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R24 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R25 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R26 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R27 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R28 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R29 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R30 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R31 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R32 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R33 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R34 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R35 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component R36 RES
+Added Member To Class: ClassName=8 step seq SMT Member=Component S1 SPDT
+Added Member To Class: ClassName=8 step seq SMT Member=Component S2 SPDT
+Added Member To Class: ClassName=8 step seq SMT Member=Component S3 SPDT
+Added Member To Class: ClassName=8 step seq SMT Member=Component S4 SPDT
+Added Member To Class: ClassName=8 step seq SMT Member=Component S5 SPDT
+Added Member To Class: ClassName=8 step seq SMT Member=Component S6 SPDT
+Added Member To Class: ClassName=8 step seq SMT Member=Component S7 SPDT
+Added Member To Class: ClassName=8 step seq SMT Member=Component S8 SPDT
+Added Member To Class: ClassName=8 step seq SMT Member=Component S9 SPDT
+Added Member To Class: ClassName=8 step seq SMT Member=Component S10 DPDT
+Added Member To Class: ClassName=8 step seq SMT Member=Component S11 SPDT
+Added Member To Class: ClassName=8 step seq SMT Member=Component U1 TL074CDR
+Added Member To Class: ClassName=8 step seq SMT Member=Component U2 CD4017BE

@@ -1,0 +1,84 @@
+Change Component DesignItemId : Designator=VR1 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component DesignItemId : Designator=VR2 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component DesignItemId : Designator=VR3 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component DesignItemId : Designator=VR4 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component DesignItemId : Designator=VR5 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component DesignItemId : Designator=VR6 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component DesignItemId : Designator=VR7 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component DesignItemId : Designator=VR8 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component DesignItemId : Designator=VR9 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component DesignItemId : Designator=VR10 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component DesignItemId : Designator=VR11 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component DesignItemId : Designator=VR12 Old DesignItemId=Thermistor NTC THT New DesignItemId=Thermistor NTC SMD 0805
+Change Component Footprint: Designator=VR1 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Footprint: Designator=VR2 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Footprint: Designator=VR3 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Footprint: Designator=VR4 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Footprint: Designator=VR5 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Footprint: Designator=VR6 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Footprint: Designator=VR7 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Footprint: Designator=VR8 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Footprint: Designator=VR9 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Footprint: Designator=VR10 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Footprint: Designator=VR11 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Footprint: Designator=VR12 Old Footprint=THERMISTOR THT 2,54 MM New Footprint=Thermistor SMD 0805
+Change Component Description : Designator=VR1 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change Component Description : Designator=VR2 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change Component Description : Designator=VR3 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change Component Description : Designator=VR4 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change Component Description : Designator=VR5 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change Component Description : Designator=VR6 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change Component Description : Designator=VR7 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change Component Description : Designator=VR8 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change Component Description : Designator=VR9 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change Component Description : Designator=VR10 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change Component Description : Designator=VR11 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change Component Description : Designator=VR12 Old Description=THT NTC Thermistor 2,54 mm Pitch New Description=SMD NTC Thermistor 0805 package
+Change component parameters: Designator = "VR1" ("VR1"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\ZKIRLOUD" ("\ZKIRLOUD")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR2" ("VR2"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\GOWQKLHK" ("\GOWQKLHK")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR3" ("VR3"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\DDKFOBIB" ("\DDKFOBIB")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR4" ("VR4"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\CZPGFNSZ" ("\CZPGFNSZ")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR5" ("VR5"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\HICRVMWU" ("\HICRVMWU")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR6" ("VR6"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\QTDQXGWN" ("\QTDQXGWN")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR7" ("VR7"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\QJMOERXN" ("\QJMOERXN")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR8" ("VR8"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\WBCKZVWY" ("\WBCKZVWY")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR9" ("VR9"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\CBPFAUBN" ("\CBPFAUBN")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR10" ("VR10"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\XBZGGATA" ("\XBZGGATA")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR11" ("VR11"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\HXYYKRVF" ("\HXYYKRVF")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR12" ("VR12"); Footprint = "THERMISTOR THT 2,54 MM"; UniqueID = "\LNTQPNAD" ("\LNTQPNAD")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"

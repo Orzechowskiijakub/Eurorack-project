@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Jakub\Desktop\Eurorack-project\3x VCO\3xVCO.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=3xvco-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=3xvco-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=D16 Old Footprint=Diode SMD 0805 New Footprint=Diode THT 10 mm
+Change Component Footprint: Designator=D18 Old Footprint=Diode SMD 0805 New Footprint=Diode THT 10 mm
+Change component parameters: Designator = "D16" ("D16"); Footprint = "Diode SMD 0805"; UniqueID = "\UVLGRTLH" ("\UVLGRTLH")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "1N4148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D18" ("D18"); Footprint = "Diode SMD 0805"; UniqueID = "\IDPLHAIH" ("\IDPLHAIH")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "1N4148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=J6(IDC 10 PIN)
+Added Pin To Net: NetName=NetD21_1 Pin=J6-1
+Added Pin To Net: NetName=NetD21_1 Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=GND Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J6-8
+Added Pin To Net: NetName=NetD22_2 Pin=J6-9
+Added Pin To Net: NetName=NetD22_2 Pin=J6-10
+Added Member To Class: ClassName=5_step_seq Member=Component J6 IDC 10

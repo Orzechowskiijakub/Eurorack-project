@@ -1,0 +1,12 @@
+Added Component: Designator=J7(IDC 10 PIN)
+Added Pin To Net: NetName=NetD5_2 Pin=J7-1
+Added Pin To Net: NetName=NetD5_2 Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=GND Pin=J7-7
+Added Pin To Net: NetName=GND Pin=J7-8
+Added Pin To Net: NetName=NetD4_1 Pin=J7-9
+Added Pin To Net: NetName=NetD4_1 Pin=J7-10
+Added Member To Class: ClassName=3xVCO Member=Component J7 IDC 10

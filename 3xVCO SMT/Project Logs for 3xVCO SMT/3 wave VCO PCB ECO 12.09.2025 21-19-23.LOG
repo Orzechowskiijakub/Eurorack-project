@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Potentiometer Alpha 9mm mono New DesignItemId=Potentiometer 9 mm
+Change Component DesignItemId : Designator=P5 Old DesignItemId=Potentiometer Alpha 9mm mono New DesignItemId=Potentiometer 9 mm
+Change Component Footprint: Designator=P1 Old Footprint=Alpha 9mm mono New Footprint=9 mm PCB Potentiometer
+Change Component Footprint: Designator=P5 Old Footprint=Alpha 9mm mono New Footprint=9 mm PCB Potentiometer
+Change Component Description : Designator=P1 Old Description=PCB Mount Alpha 9mm Mono Potentiometer THT New Description=PCB Mount 9mm Mono Potentiometer THT
+Change Component Description : Designator=P5 Old Description=PCB Mount Alpha 9mm Mono Potentiometer THT New Description=PCB Mount 9mm Mono Potentiometer THT

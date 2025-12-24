@@ -1,0 +1,3 @@
+Added Component: Designator=TP16(Testpoint SMD pad)
+Added Pin To Net: NetName=GND Pin=TP16-1
+Added Member To Class: ClassName=Power section Member=Component TP16 Testpoint PAD

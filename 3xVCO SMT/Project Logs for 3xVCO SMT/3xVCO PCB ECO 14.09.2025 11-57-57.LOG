@@ -1,0 +1,45 @@
+Added Component: Designator=TP1(Testpoint SMD pad)
+Added Component: Designator=TP2(Testpoint SMD pad)
+Added Component: Designator=TP3(Testpoint SMD pad)
+Added Component: Designator=TP4(Testpoint SMD pad)
+Added Component: Designator=TP5(Testpoint SMD pad)
+Added Component: Designator=TP6(Testpoint SMD pad)
+Added Component: Designator=TP7(Testpoint SMD pad)
+Added Component: Designator=TP8(Testpoint SMD pad)
+Added Component: Designator=TP9(Testpoint SMD pad)
+Added Component: Designator=TP10(Testpoint SMD pad)
+Added Component: Designator=TP11(Testpoint SMD pad)
+Added Component: Designator=TP12(Testpoint SMD pad)
+Added Component: Designator=TP13(Testpoint SMD pad)
+Added Component: Designator=TP14(Testpoint SMD pad)
+Added Component: Designator=TP15(Testpoint SMD pad)
+Added Pin To Net: NetName=+12 V Pin=TP1-1
+Added Pin To Net: NetName=-12 V Pin=TP2-1
+Added Pin To Net: NetName=NetC12_2 Pin=TP3-1
+Added Pin To Net: NetName=NetR7_1 Pin=TP4-1
+Added Pin To Net: NetName=NetC14_2 Pin=TP5-1
+Added Pin To Net: NetName=NetP7_1 Pin=TP6-1
+Added Pin To Net: NetName=NetP9_1 Pin=TP7-1
+Added Pin To Net: NetName=NetC14_1 Pin=TP8-1
+Added Pin To Net: NetName=NetR27_2 Pin=TP9-1
+Added Pin To Net: NetName=NetP7_3 Pin=TP10-1
+Added Pin To Net: NetName=NetC16_2 Pin=TP11-1
+Added Pin To Net: NetName=NetD7_1 Pin=TP12-1
+Added Pin To Net: NetName=NetC18_1 Pin=TP13-1
+Added Pin To Net: NetName=NetR39_2 Pin=TP14-1
+Added Pin To Net: NetName=NetD8_1 Pin=TP15-1
+Added Member To Class: ClassName=Power section Member=Component TP1 Testpoint PAD
+Added Member To Class: ClassName=Power section Member=Component TP2 Testpoint PAD
+Added Member To Class: ClassName=Saw VCO Member=Component TP3 Testpoint PAD
+Added Member To Class: ClassName=Saw VCO Member=Component TP4 Testpoint PAD
+Added Member To Class: ClassName=Blend VCO Member=Component TP5 Testpoint PAD
+Added Member To Class: ClassName=Blend VCO Member=Component TP6 Testpoint PAD
+Added Member To Class: ClassName=Blend VCO Member=Component TP7 Testpoint PAD
+Added Member To Class: ClassName=Blend VCO Member=Component TP8 Testpoint PAD
+Added Member To Class: ClassName=Blend VCO Member=Component TP9 Testpoint PAD
+Added Member To Class: ClassName=Blend VCO Member=Component TP10 Testpoint PAD
+Added Member To Class: ClassName=Triangle VCO Member=Component TP11 Testpoint PAD
+Added Member To Class: ClassName=Triangle VCO Member=Component TP12 Testpoint PAD
+Added Member To Class: ClassName=Triangle VCO Member=Component TP13 Testpoint PAD
+Added Member To Class: ClassName=Triangle VCO Member=Component TP14 Testpoint PAD
+Added Member To Class: ClassName=Triangle VCO Member=Component TP15 Testpoint PAD

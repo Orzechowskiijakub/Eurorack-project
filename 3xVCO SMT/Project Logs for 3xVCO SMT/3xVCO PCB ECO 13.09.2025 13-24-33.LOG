@@ -1,0 +1,9 @@
+Added Component: Designator=P10(9 mm PCB Potentiometer)
+Add component (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter"; Value = "PWM CV LVL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B200k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWM CV Pin=P10-2
+Added Pin To Net: NetName=NetP10_3 Pin=P10-3
+Added Member To Class: ClassName=Square VCO Member=Component P10 VR

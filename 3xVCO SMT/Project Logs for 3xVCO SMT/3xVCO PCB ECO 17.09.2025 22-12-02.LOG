@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=R41 Old Footprint=Resistor THT 10mm New Footprint=Resistor THT vertical
+Change component parameters: Designator = "R20" ("R20"); Footprint = "Resistor SMD 0805"; UniqueID = "\GUQKHBTZ" ("\GUQKHBTZ")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "Resistor SMD 0805"; UniqueID = "\FSVVJQBF" ("\FSVVJQBF")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"

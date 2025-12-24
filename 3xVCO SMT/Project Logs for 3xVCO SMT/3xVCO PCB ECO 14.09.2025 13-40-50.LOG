@@ -1,0 +1,30 @@
+Change Component DesignItemId : Designator=D4 Old DesignItemId=Diode THT New DesignItemId=Diode SMD SOD123
+Change Component DesignItemId : Designator=D5 Old DesignItemId=Diode THT New DesignItemId=Diode SMD SOD123
+Change Component DesignItemId : Designator=D6 Old DesignItemId=Diode THT New DesignItemId=Diode SMD SOD123
+Change Component Footprint: Designator=D4 Old Footprint=Diode THT 10 mm New Footprint=SOD-123
+Change Component Footprint: Designator=D5 Old Footprint=Diode THT 10 mm New Footprint=SOD-123
+Change Component Footprint: Designator=D6 Old Footprint=Diode THT 10 mm New Footprint=SOD-123
+Change Component Description : Designator=D4 Old Description=Generic THT Axial Diode 10 mm Pitch New Description=Generic SMD Diode SOD123 Package
+Change Component Description : Designator=D5 Old Description=Generic THT Axial Diode 10 mm Pitch New Description=Generic SMD Diode SOD123 Package
+Change Component Description : Designator=D6 Old Description=Generic THT Axial Diode 10 mm Pitch New Description=Generic SMD Diode SOD123 Package
+Change component parameters: Designator = "D4" ("D4"); Footprint = "Diode THT 10 mm"; UniqueID = "\PRQSVXAY" ("\PRQSVXAY")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "Diode THT 10 mm"; UniqueID = "\BILWISET" ("\BILWISET")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "Diode THT 10 mm"; UniqueID = "\OQTCPKMQ" ("\OQTCPKMQ")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "1N4148W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"

@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=C12 Old DesignItemId=Capacitor THT 5mm New DesignItemId=Capacitor SMD 0805
+Change Component Footprint: Designator=C12 Old Footprint=Cap THT 5mm New Footprint=Cap SMD 0805
+Change Component Description : Designator=C12 Old Description=THT Capacitor Non-Polarised 5 mm Pitch New Description=SMD Capacitor Non-Polarised 0805 Package
+Change component parameters: Designator = "C12" ("C12"); Footprint = "Cap THT 5mm"; UniqueID = "\HJKFSVPA" ("\HJKFSVPA")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"

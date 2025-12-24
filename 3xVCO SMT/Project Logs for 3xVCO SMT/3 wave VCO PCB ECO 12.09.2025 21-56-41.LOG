@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=P10 Old DesignItemId=VR B 9 mm New DesignItemId=VR B THT
+Change Component Footprint: Designator=P10 Old Footprint=9 mm PCB Potentiometer New Footprint=THT Trimmer Pot
+Change Component Description : Designator=P10 Old Description=PCB Mount 9mm Mono Potentiometer THT as Variable Resistor Clockwise Decrease New Description=PCB Mount Trimmer Potentiometer Top Adjustable as Variable Resistor Clockwise Decrease
+Change component parameters: Designator = "P10" ("P10"); Footprint = "9 mm PCB Potentiometer"; UniqueID = "\LFEZXQMR" ("\LFEZXQMR")
+Change component parameters (AddParameter): Name = "Package Type"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter"; Value = "PWM CV LVL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Taper"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "B200k"; VariantName = "[No Variations]"
